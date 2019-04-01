@@ -252,3 +252,14 @@
 	results = list("modafinil" = 5)
 	required_reagents = list("diethylamine" = 1, "ammonia" = 1, "phenol" = 1, "acetone" = 1, "sacid" = 1)
 	required_catalysts = list("bromine" = 1) // as close to the real world synthesis as possible
+
+	______
+  .---<__. \ \
+  `---._  \ \ \
+   ,----`- `.))
+  / ,--.   )  |
+ /_/    >     |
+ |,\__-'      |
+  \_           \
+    ~~-___      )
+          \      \
